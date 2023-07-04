@@ -1,7 +1,7 @@
 <h1 align="center"> Introdução ao Grid </h1>
 
 <p align="center">
-Estudo voltado aos fundamentos do grid.
+Estudo voltado aos fundamentos de grid.
 </p>
 <br>
 
