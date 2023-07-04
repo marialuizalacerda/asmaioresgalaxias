@@ -6,7 +6,7 @@ Estudo voltado aos fundamentos do grid.
 <br>
 
 <p align="center">
-  <img alt="tela templete do projeto" src="assets/templete.png" width="80%">
+  <img alt="tela templete do projeto" src="assets/template.png" width="80%">
 </p>
 
 
